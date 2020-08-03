@@ -9,13 +9,24 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 [permalinks]
     post = "/:year/:month/:day/:slug/"
 
+
+[[menu.main]]
+    name = "Organisation"
+    url = "/Organisation/"
+    
+
+[[menu.main]]
+    name = "Caseine"
+    url = "https://caseine.org/course/view.php?id=347"
+    
 [[menu.main]]
     name = "About"
     url = "/about/"
+    
 [[menu.main]]
     name = "GitHub"
     url = "https://github.com/Iragael38/BasicEco_Source"
-
+    
 
 [params]
     description = "A website built through Hugo and blogdown."
