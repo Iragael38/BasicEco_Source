@@ -13,4 +13,11 @@ You find here
 
 Many things
 
+
+Each lesson will be associated as a post, describing the topic of the day with materials, etc
+
+## Planning
+
+![](/./_index_files/Planning.png)
+
 ## Posts

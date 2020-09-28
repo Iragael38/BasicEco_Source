@@ -1,0 +1,69 @@
+---
+title: "First Lesson"
+subtitle: "1rst October - Introduction"
+author: "Iragaël Joly"
+date: "Automn 2020"
+categories: ["Basic Eco"]
+tags: ["Economics", "Introduction", "Market", "Thinking like Economist"]
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
+
+
+Welcome !
+
+- This *First lesson* is the introduction of the Basic Economics Class
+- Main topics are
+  + Course organisation
+  + Introductory topics in economics
+  + Experimentation / Case Study / Exercises
+- *First* period of the class will use [handout](/pdf/001_BEIE_Introduction.pdf)
+- *Second* part will be based on experimentation (see below)
+
+**After** this lesson:
+
+  - Student works
+    + Reading the [Production Chapters](/pdf/Production_Krugman_Economics-2.pdf)
+    + Group work: Case study presentation on [production cases](/pdf/Exercises_and_Cases.pdf) - (08/10/2020)
+       * Pick a case to study in production between **8.1 - 8.13**
+       * This is a team work: subscribe on [Production Googlesheet](https://docs.google.com/spreadsheets/d/1lAzoPYPRt6jUZRFZqgK2R9EPZW4jqVHgUR3IAD19nQc/edit#gid=0) for group describtion and topic choice
+       * Statements: **3 slides presentation**
+         + 1 slide: Introduction of the case
+         + 1 slide: Defining the economics topics usefull to analyse the case
+         + 1 slide: Case analysis: either by graph, model, equation, etc. based on your former definitions
+       
+
+
+## Visio Link to the class
+
+
+
+## Lesson material
+
+[handout](/pdf/001_BEIE_Introduction.pdf)
+
+## Experimentation link
+
+We use economics experimentation to study the demand and the market
+
+In Class Experiments are available on the [Veconlab](http://veconlab.econ.virginia.edu/] website
+
+1rst Experiment : **Demand**
+
+  1. Connect to [Veconlab](http://veconlab.econ.virginia.edu/) website
+  2. Use the session Name : *It will be given during the lesson*
+  3. Precise your Name - no need of password
+  4. Note your ID
+  5. Read instruction of the game
+  6. Answer Mini Quizz : *Answer will be discussed in class*
+  
+
+2nd Experiment (*optional*) : **Call Market**
+  
+  1. Connect to [Veconlab](http://veconlab.econ.virginia.edu/) website
+  2. Use the session Name : *It will be given during the lesson*
+  3. Precise your Name - no need of password
+  4. Note your ID
+  5. Read instruction of the game
