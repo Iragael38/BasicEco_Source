@@ -1,0 +1,32 @@
+---
+title: "Second Lesson"
+subtitle: "5th October - Market"
+author: "Iragaël Joly"
+date: "Automn 2020"
+categories: ["Basic Eco"]
+tags: ["Economics", "Introduction", "Market", "Thinking like Economist"]
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
+
+
+Welcome !
+
+- This *Second lesson* is the introduction of the Basic Economics Class
+- Main topics are
+  + Market
+- The class will continue to use [handout](/pdf/001_BEIE_Introduction.pdf)
+
+
+
+
+## Visio Link to the class
+
+
+
+## Lesson material
+
+[handout](/pdf/001_BEIE_Introduction.pdf)
+

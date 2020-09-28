@@ -1,0 +1,22 @@
+---
+title: "Basic Economics for IE"
+subtitle: "Lessons list"
+author: "Iragaël Joly"
+date: "Automn 2020"
+categories: ["R"]
+tags: ["lessons list"]
+authorbox: false
+---
+
+# Lessons list
+
+This is the website of the Lesson **Basic Economics for IE** taught at Grenoble INP Industrial Engineering and Management School.
+
+## First Lesson - 01/10/2020 - 13:30-16:30
+
+Welcome page of [First Lesson](../post/2020_10_01_first-lesson)
+
+## Second Lesson - 05/10/2020 - 11:00-12:30
+
+Material for the [Second Lesson](/post/2020_10_05_second-lesson) 
+

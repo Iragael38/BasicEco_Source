@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>datascienceblog.net: R for Data Science on Basic Eco Web site for SIE</title>
+    <title>Basic Eco Web site for SIE</title>
     <link>/</link>
-    <description>Recent content in datascienceblog.net: R for Data Science on Basic Eco Web site for SIE</description>
+    <description>Recent content on Basic Eco Web site for SIE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
@@ -20,14 +20,49 @@
     </item>
     
     <item>
-      <title>First Lesson</title>
-      <link>/1/01/01/first-lesson/</link>
+      <title>Basic Economics for IE</title>
+      <link>/lessons_list/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/1/01/01/first-lesson/</guid>
+      <guid>/lessons_list/</guid>
+      <description>Lessons listThis is the website of the Lesson Basic Economics for IE taught at Grenoble INP Industrial Engineering and Management School.
+First Lesson - 01/10/2020 - 13:30-16:30Welcome page of First Lesson
+Second Lesson - 05/10/2020 - 11:00-12:30Material for the Second Lesson
+</description>
+    </item>
+    
+    <item>
+      <title>First Lesson</title>
+      <link>/post/2020_10_01_first-lesson/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020_10_01_first-lesson/</guid>
       <description>Welcome !
 This First lesson is the introduction of the Basic Economics ClassMain topics areCourse organisationIntroductory topics in economicsExperimentation / Case Study / ExercisesFirst period of the class will use handoutSecond part will be based on experimentation (see below)After this lesson:
 Student worksReading the Production ChaptersGroup work: Case study presentation on production cases - (08/10/2020)Pick a case to study in production between 8.</description>
+    </item>
+    
+    <item>
+      <title>Other Classes list</title>
+      <link>/otherclass/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/otherclass/</guid>
+      <description>Here are links to other lessons I have pushed online
+Basic Economics for IEM
+Discrete Choice Modelling
+Smart Analytics for Big Data</description>
+    </item>
+    
+    <item>
+      <title>Second Lesson</title>
+      <link>/post/2020_10_05_second-lesson/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020_10_05_second-lesson/</guid>
+      <description>Welcome !
+This Second lesson is the introduction of the Basic Economics ClassMain topics areMarketThe class will continue to use handoutVisio Link to the classLesson materialhandout
+</description>
     </item>
     
   </channel>

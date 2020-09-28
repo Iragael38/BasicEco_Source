@@ -1,0 +1,14 @@
+---
+title: "Other Classes list"
+author: "Iragaël Joly"
+date: "Automn 2020"
+authorbox: false
+---
+
+Here are links to other lessons I have pushed online
+
+[Basic Economics for IEM](https://sie-basic-eco.netlify.app/)
+
+[Discrete Choice Modelling](https://discretchoicemodelling.netlify.app/)
+
+[Smart Analytics for Big Data](https://sabd-smartanalytics.netlify.app/)

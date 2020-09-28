@@ -1,17 +1,20 @@
 ---
-title: "datascienceblog.net: R for Data Science"
+title: ""
 ---
 
 # Welcome
 
 This is the welcome page
 
+This webpage is maintained for the **Basic Economics Lesson - part I**
+
+This is complementary to *Caseine* and *Chamilo* platforms.
+
 You find here
 
 - Lesson materials
 - links to the *Caseine Platform*
-
-Many things
+- Many things
 
 
 Each lesson will be associated as a post, describing the topic of the day with materials, etc

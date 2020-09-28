@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://sie-basic-eco.netlify.app/"
 languageCode = "en-us"
 title = "Basic Eco Web site for SIE"
 theme = "Mainroad"
@@ -6,30 +6,41 @@ googleAnalytics = ""
 disqusShortname = ""
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
-[permalinks]
-    post = "/:year/:month/:day/:slug/"
+[Params.logo]
+  subtitle = "Lesson at Grenoble Inp - IEM" # Logo subtitle
 
 
-[[menu.main]]
-    name = "Organisation"
-    url = "/Organisation/"
-    
 
 [[menu.main]]
     name = "Caseine"
     url = "https://caseine.org/course/view.php?id=347"
+    weight = 2
+
     
 [[menu.main]]
     name = "About"
     url = "/about/"
-    
-[[menu.main]]
-    name = "GitHub"
-    url = "https://github.com/Iragael38/BasicEco_Source"
-    
+    weight = 10
 
-[params]
-    description = "A website built through Hugo and blogdown."
+
+[[menu.main]]
+    name = "Lessons"
+    url = "/lessons_list/"
+    weight = 3
+
+   
+[[menu.main]]
+    name = "Other Classes"
+    url = "/OtherClass/"
+    weight = 6
+[Params]
+  description = "Smart Analytics for Big Data" # Description of your site
+  opengraph = true
+  twitter_cards = false
+  readmore = false # Show "Read more" button in list if true
+  authorbox = false
+  pager = true
+  post_meta = ["date", "categories"] # Order of post meta information
 
     # options for highlight.js (version, additional languages, and theme)
     highlightjsVersion = "9.12.0"

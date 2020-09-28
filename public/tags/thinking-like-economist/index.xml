@@ -12,13 +12,24 @@
     
     <item>
       <title>First Lesson</title>
-      <link>/1/01/01/first-lesson/</link>
+      <link>/post/2020_10_01_first-lesson/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/1/01/01/first-lesson/</guid>
+      <guid>/post/2020_10_01_first-lesson/</guid>
       <description>Welcome !
 This First lesson is the introduction of the Basic Economics ClassMain topics areCourse organisationIntroductory topics in economicsExperimentation / Case Study / ExercisesFirst period of the class will use handoutSecond part will be based on experimentation (see below)After this lesson:
 Student worksReading the Production ChaptersGroup work: Case study presentation on production cases - (08/10/2020)Pick a case to study in production between 8.</description>
+    </item>
+    
+    <item>
+      <title>Second Lesson</title>
+      <link>/post/2020_10_05_second-lesson/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020_10_05_second-lesson/</guid>
+      <description>Welcome !
+This Second lesson is the introduction of the Basic Economics ClassMain topics areMarketThe class will continue to use handoutVisio Link to the classLesson materialhandout
+</description>
     </item>
     
   </channel>

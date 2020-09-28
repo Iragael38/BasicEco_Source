@@ -3,6 +3,10 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/</loc>
+  </url>
+  
+  <url>
     <loc>/about/</loc>
   </url>
   
@@ -11,11 +15,11 @@
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>/lessons_list/</loc>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>/categories/</loc>
   </url>
   
   <url>
@@ -23,7 +27,7 @@
   </url>
   
   <url>
-    <loc>/1/01/01/first-lesson/</loc>
+    <loc>/post/2020_10_01_first-lesson/</loc>
   </url>
   
   <url>
@@ -31,11 +35,27 @@
   </url>
   
   <url>
+    <loc>/tags/lessons-list/</loc>
+  </url>
+  
+  <url>
     <loc>/tags/market/</loc>
   </url>
   
   <url>
+    <loc>/otherclass/</loc>
+  </url>
+  
+  <url>
     <loc>/post/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/r/</loc>
+  </url>
+  
+  <url>
+    <loc>/post/2020_10_05_second-lesson/</loc>
   </url>
   
   <url>
