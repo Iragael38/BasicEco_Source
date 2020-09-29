@@ -34,7 +34,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     url = "/OtherClass/"
     weight = 6
 [Params]
-  description = "Smart Analytics for Big Data" # Description of your site
+  description = "Basic Economics for SIE" # Description of your site
   opengraph = true
   twitter_cards = false
   readmore = false # Show "Read more" button in list if true

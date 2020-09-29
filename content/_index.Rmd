@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Basic Economics for SIE"
 ---
 
 # Welcome
@@ -8,13 +8,13 @@ This is the welcome page
 
 This webpage is maintained for the **Basic Economics Lesson - part I**
 
-This is complementary to *Caseine* and *Chamilo* platforms.
+This is complementary to [*Caseine*](https://caseine.org/course/view.php?id=347) and [*Chamilo*](https://chamilo.grenoble-inp.fr/courses/GIWGUS1014/index.php?id_session=0) platforms.
 
 You find here
 
 - Lesson materials
-- links to the *Caseine Platform*
-- Many things
+- Planning
+- all relevant information
 
 
 Each lesson will be associated as a post, describing the topic of the day with materials, etc
