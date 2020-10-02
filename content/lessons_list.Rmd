@@ -12,11 +12,15 @@ authorbox: false
 
 This is the website of the Lesson **Basic Economics for IE** taught at Grenoble INP Industrial Engineering and Management School.
 
-## First Lesson - 01/10/2020 - 13:30-16:30
+## First Lesson - 01/10/2020 - Thursday 13:30-16:30
 
 Welcome page of [First Lesson](../post/2020_10_01_first-lesson)
 
-## Second Lesson - 05/10/2020 - 11:00-12:30
+### To do before **Lesson 3**: Production Case Study team work 
+
+Presentation of the team works: [Production case study](../post/2020_10_02_Production-Case-Study)
+
+## Second Lesson - 05/10/2020 - Monday 12:00-13:30
 
 Material for the [Second Lesson](/post/2020_10_05_second-lesson) 
 
