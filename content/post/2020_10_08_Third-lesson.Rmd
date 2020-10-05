@@ -1,0 +1,44 @@
+---
+title: "Third Lesson"
+subtitle: "8th October - Market"
+author: "Iragaël Joly"
+date: "Automn 2020"
+categories: ["Basic Eco"]
+tags: ["Economics", "Introduction", "Market", "Thinking like Economist"]
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
+
+
+Welcome !
+
+- This *Third lesson* is the Production Case Studies Class
+- Main topics are
+  + Production
+- The class will present and discuss Case studies
+
+
+
+
+## Visio Link to the class
+
+Meeting: Basic Economics - 3rd Lesson
+Time: 8 oct. 2020 01:30 PM Paris
+
+**Join the  Zoom Meeting**
+[https://grenoble-inp.zoom.us/j/99106787145?pwd=ZkUydlhkWm40ZmMrUjVZbFF2dGlnZz09
+](https://grenoble-inp.zoom.us/j/99106787145?pwd=ZkUydlhkWm40ZmMrUjVZbFF2dGlnZz09
+)
+
+**ID :** 991 0678 7145
+**Password:** BEIE-SIE
+
+
+
+## Lesson material
+
+[Case Study](/pdf/002_Basic_Cases Studies - Production Economics_2017.pdf)
+
+[Caseine](https://moodle.caseine.org/course/view.php?id=347)

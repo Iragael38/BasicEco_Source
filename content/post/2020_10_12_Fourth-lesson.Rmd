@@ -1,0 +1,42 @@
+---
+title: "Fourth Lesson"
+subtitle: "12th October - Market"
+author: "Iragaël Joly"
+date: "Automn 2020"
+categories: ["Basic Eco"]
+tags: ["Economics", "Introduction", "Market", "Thinking like Economist"]
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
+
+
+Welcome !
+
+- This *Fourth lesson* is the Debrief of Production Class
+- Main topics are
+  + Production
+
+
+
+
+## Visio Link to the class
+
+Meeting: Basic Economics - 4th Lesson
+Time: 8 oct. 2020 01:30 PM Paris
+
+**Join the  Zoom Meeting**
+[https://grenoble-inp.zoom.us/j/92779189061?pwd=QkZVZDZnazE3TnBHdThiWjZGTnd3dz09
+](https://grenoble-inp.zoom.us/j/92779189061?pwd=QkZVZDZnazE3TnBHdThiWjZGTnd3dz09)
+
+**ID :** 927 7918 9061
+**Password:** BEIE-SIE
+
+
+
+## Lesson material
+
+[handout](/pdf/002_BEIE_Prod.pdf)
+
+

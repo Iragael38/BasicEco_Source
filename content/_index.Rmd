@@ -4,7 +4,8 @@ title: "Basic Economics for SIE"
 
 # What's new?
 
-- `02/10/2020`: The lesson on Monday 5/10/2020 is reschuduled at **12:00-13:30**
+
+- `02/10/2020`: The lesson on Monday 5/10/2020 is rescheduled at **12:00-13:30**
    [Second Lesson](/post/2020_10_05_second-lesson)
 
 # Welcome
