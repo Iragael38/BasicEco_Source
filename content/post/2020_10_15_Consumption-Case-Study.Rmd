@@ -1,0 +1,41 @@
+---
+title: "Consumption Case Study"
+subtitle: "Due to Thursday 15 October"
+author: "Iragaël Joly"
+date: "Automn 2020"
+categories: ["Basic Eco"]
+tags: ["Economics", "Introduction", "Market", "Thinking like Economist"]
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
+
+
+  - Student works
+    + Reading the [Consumption Chapters](/pdf/Consumption_Microeconomics-and-Behavior.pdf)
+    + Group work: Case study presentation on [consumption cases](/pdf/Exercises_and_Cases.pdf) - (08/10/2020)
+       * Pick a case to study in consumption between **9.2 - 9.13**
+       * This is a team work: subscribe on [Consumption Googlesheet](https://docs.google.com/spreadsheets/d/1lAzoPYPRt6jUZRFZqgK2R9EPZW4jqVHgUR3IAD19nQc/edit#gid=0) for group describtion and topic choice
+       * Statements: **3 slides presentation**
+         + 1 slide: Introduction of the case
+         + 1 slide: Defining the economics topics usefull to analyse the case
+         + 1 slide: Case analysis: either by graph, model, equation, etc. based on your former definitions
+         
+         
+  - As an example, we performed in class a short discussion of the first case in Consumption : *"CASE 1: A Blogger Who Understands the Importance of Ignoring Sunk Costs"*
+  
+  You find [here](/pdf/S1.3_Consumer_Case_1_OneSolution.pdf) an improved version of the ppt constituted in-class
+       
+
+
+## Deliverable (due before the 5rd lesson)
+
+You can upload your ppt on 
+[Caseine](https://moodle.caseine.org/mod/assign/view.php?id=18139)
+
+**Reminder**
+
+> Thank you to update your presentation on production case study on Caseine
+[Caseine](https://moodle.caseine.org/mod/assign/view.php?id=18077)
+

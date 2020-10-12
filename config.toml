@@ -28,7 +28,13 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     url = "/lessons_list/"
     weight = 3
 
-   
+
+[[menu.main]]
+    name = "Recordings"
+    url = "/Recordings/"
+    weight = 4
+    
+    
 [[menu.main]]
     name = "Other Classes"
     url = "/OtherClass/"

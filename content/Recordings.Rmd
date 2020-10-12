@@ -1,0 +1,29 @@
+---
+title: "Basic Economics for IE"
+subtitle: "Lessons Recordings"
+author: "Iragaël Joly"
+date: "Automn 2020"
+categories: ["R"]
+tags: ["lessons list"]
+authorbox: false
+---
+
+# Lessons list
+
+Re cordings are accessible on [GoogleDrive](https://drive.google.com/drive/folders/1EkHFE57XlPMFtssOCzBKEs78DqDpncig)
+
+
+## First Lesson - 01/10/2020 - Thursday 13:30-16:30
+
+
+## Second Lesson - 05/10/2020 - Monday 12:00-13:30
+
+
+## Third Lesson - 08/10/2020 - Thurday 13:30-16:30
+
+
+
+## Fourth Lesson - 12/10/2020 - Monday 12:00-13:30
+
+
+
