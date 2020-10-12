@@ -1,0 +1,43 @@
+---
+title: "Fifth Lesson"
+subtitle: "15th October - Consumption"
+author: "Iragaël Joly"
+date: "Automn 2020"
+categories: ["Basic Eco"]
+tags: ["Economics", "Introduction", "Market", "Thinking like Economist"]
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
+
+
+Welcome !
+
+- This *Fifth lesson* is the Consumption Case Studies Class
+- Main topics are
+  + Consumption
+- The class will present and discuss Case studies
+
+
+
+
+## Visio Link to the class
+
+Meeting: Basic Economics - 3rd Lesson
+Time: 8 oct. 2020 01:30 PM Paris
+
+**Join the  Zoom Meeting**
+[https://grenoble-inp.zoom.us/j/98288859856?pwd=KzA1a1VKY2owWms2eG5mY1phSXlJUT09
+](https://grenoble-inp.zoom.us/j/98288859856?pwd=KzA1a1VKY2owWms2eG5mY1phSXlJUT09
+)
+
+**ID :** 982 8885 9856
+**Password:** BEIE2020
+
+
+## Lesson material
+
+[Case Study](/pdf/003_Basic_Cases Studies - Consumption Economics_2017.pdf)
+
+[Caseine](https://moodle.caseine.org/mod/assign/view.php?id=18139)

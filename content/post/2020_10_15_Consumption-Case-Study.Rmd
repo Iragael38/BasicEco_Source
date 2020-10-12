@@ -14,7 +14,7 @@ knitr::opts_chunk$set(collapse = TRUE)
 
   - Student works
     + Reading the [Consumption Chapters](/pdf/Consumption_Microeconomics-and-Behavior.pdf)
-    + Group work: Case study presentation on [consumption cases](/pdf/Exercises_and_Cases.pdf) - (08/10/2020)
+    + Group work: Case study presentation on [consumption cases](/pdf/Exercises_and_Cases.pdf) - (15/10/2020)
        * Pick a case to study in consumption between **9.2 - 9.13**
        * This is a team work: subscribe on [Consumption Googlesheet](https://docs.google.com/spreadsheets/d/1lAzoPYPRt6jUZRFZqgK2R9EPZW4jqVHgUR3IAD19nQc/edit#gid=0) for group describtion and topic choice
        * Statements: **3 slides presentation**
@@ -29,7 +29,7 @@ knitr::opts_chunk$set(collapse = TRUE)
        
 
 
-## Deliverable (due before the 5rd lesson)
+## Deliverable (due before the 5rd lesson - 15/10/2020)
 
 You can upload your ppt on 
 [Caseine](https://moodle.caseine.org/mod/assign/view.php?id=18139)
