@@ -1,0 +1,42 @@
+---
+title: "Production Case Study"
+subtitle: "Revised Student Slides"
+author: "Iragaël Joly"
+date: "Automn 2020"
+categories: ["Basic Eco"]
+tags: ["Economics", "Introduction", "Market", "Thinking like Economist"]
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
+## Cases list
+
+
+1.1	**Increasing Returns to Scale at Volkswagen** [Student Presentation](/pdf/StudentCaseProduction/P1.1_Basic Eco - case study_VW.pptx)
+
+*1.2	Food Intake and Productivity: An Example of Diminishing Returns*
+
+1.3	**Economies of scale and hospitals in Scotland** [Student Presentation](/pdf/StudentCaseProduction/P1.3_IJ_Production Case 1.3 - SIE M1 2020.pptx)
+
+1.4	**Baseball Averages** [Student Presentation](/pdf/StudentCaseProduction/P1.4_Baseball Case.pptx)
+
+1.5	**Economies of Scale and Learning Effects in the Chemical Processing Industry**
+[Student Presentation](/pdf/StudentCaseProduction/P1.5_Eco presentation_updated.pptx)
+
+*1.6	Economies of Scale and Scope in Apartment Management*
+
+*1.7	Economies of Scale and Scope in DSP Production*
+
+*1.8	Substitution of Inputs in Home Building*
+
+1.9	**General Motors Is Shanghaied** [Student Presentation](/pdf/StudentCaseProduction/P1.9_Basic Economy 1st EX-2.pdf)
+
+*1.1	Job Seekers Use Internet*
+
+1.11	**DeLorean Automobiles**  [Student Presentation](/pdf/StudentCaseProduction/P1.11_DeLorean Automobiles.pptx)
+
+*1.12	Public Utilities*
+
+*1.13	Attention consumers: creativity never comes cheap*
+
