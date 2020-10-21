@@ -1,0 +1,40 @@
+---
+title: "Sixth Lesson"
+subtitle: "22th October - Consumption"
+author: "Iragaël Joly"
+date: "Automn 2020"
+categories: ["Basic Eco"]
+tags: ["Economics", "Introduction", "Market", "Thinking like Economist"]
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
+
+
+Welcome !
+
+- This *Sixth lesson* is the **Debrief** of Consumption Case Studies
+- Main topics are
+  + Consumption
+
+
+## Visio Link to the class
+
+Meeting: BAsic Economics - 6th Lesson
+Time: 22 oct. 2020 01:30 PM Paris
+
+
+**Join the  Zoom Meeting**
+[https://grenoble-inp.zoom.us/j/92878536013?pwd=ZVI4UUt1ZGlDMG1sTzJWMURCVzRoQT09
+](https://grenoble-inp.zoom.us/j/92878536013?pwd=ZVI4UUt1ZGlDMG1sTzJWMURCVzRoQT09)
+
+**ID :**  928 7853 6013
+**Password:** BEIE
+
+
+## Lesson material
+
+Consumption debrief [Slides](/pdf/S3.001_BasicCaseConso_Debrief.pdf)
+
+
