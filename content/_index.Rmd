@@ -4,9 +4,9 @@ title: "Basic Economics for SIE"
 
 # What's new?
 
-
-- `15/10/2020`: the revived student slides on production case study are available [here](/post/2020_10_15_ProductionCS)
-
+- `23/10/2020`: Grades of the CS presentations are available on [Caseine](https://moodle.caseine.org/mod/resource/view.php?id=32068)
+- `22/10/2020`: the revised student slides on *Consumption* case study are available [here](/post/2020_10_22_Consumption_CS)
+- `15/10/2020`: the revised student slides on *production* case study are available [here](/post/2020_10_15_ProductionCS)
 - `02/10/2020`: The lesson on Monday 5/10/2020 is rescheduled at **12:00-13:30**
    [Second Lesson](/post/2020_10_05_second-lesson)
 

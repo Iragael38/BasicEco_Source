@@ -1,0 +1,27 @@
+---
+title: "Consumption Case Study"
+subtitle: "Revised Student Slides"
+author: "Iragaël Joly"
+date: "Automn 2020"
+categories: ["Basic Eco"]
+tags: ["Economics", "Introduction", "Market", "Thinking like Economist"]
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
+## Cases list
+
+
+**CASE 2** *Why Don't Students Study More?*		[Student Presentation](/pdf/StudentCaseConsumption/Student Case V2.pptx)
+
+**CASE 3** *The New Philanthropy*		[Student Presentation](/pdf/StudentCaseConsumption/CS - consumption_NewPhilantropy.pptx)
+
+**Case 5** *Do Rats Have Downward-Sloping Demand Curves?*	[Student Presentation](/pdf/StudentCaseConsumption/Eco presentation cons def (1).pptx)
+
+**Case 7** *Network Effects and the Diffusion of Communications Technologies and Computer Hardware and Software*	[Student Presentation](/pdf/StudentCaseConsumption/Network Effects(revised).pptx)
+
+**Case 8** *Income and substitution effects and home ownership*	[Student Presentation](/pdf/StudentCaseConsumption/Consumption Case 8. Income and substitution effects and home ownership - FINAL VERSION.pptx)
+
+**Case 9 Trash** *Pricing and Recycling*		[Student Presentation](/pdf/StudentCaseConsumption/)
+
