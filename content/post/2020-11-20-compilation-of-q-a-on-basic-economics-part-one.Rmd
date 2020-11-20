@@ -3,7 +3,7 @@ title: "Compilation of Q&A on Basic Economics part One"
 author: ''
 slug: []
 date: '2020-11-20'
-categories: ["Basic Eco"]
+categories: []
 tags: ["Economics", "Introduction", "Questions&Answers", "Exam"]
 ---
 
