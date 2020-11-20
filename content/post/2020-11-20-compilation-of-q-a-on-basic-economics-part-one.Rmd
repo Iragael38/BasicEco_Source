@@ -7,9 +7,12 @@ categories: []
 tags: ["Economics", "Introduction", "Questions&Answers", "Exam"]
 ---
 
+
+[Pdf](/pdf/QA-pdfVersion.pdf) version with equations in a correct form
+
 ## 2 questions on the "Exercise 2 : Cobb-Douglas Production Function" :
 
-1. i don't get the answer the question 3 in this exercise when the power of $x^0.5$ is changed to $x−0.5$
+1. i don't get the answer the question 3 in this exercise when the power of $x^{0.5}$ is changed to $x_{0.5}$
 
 + The output elasticity with respect to $x_2$ is defined as a ratio of marginal product and average product.
 We can write marg.product as: $$mP_{x_2} = \frac{\bar{x}_1^{0.3}}{2x_2^{0.5}}  = \bar{x}_1^{0.3} \times 0.5 \times x_2^{-0.5}$$
