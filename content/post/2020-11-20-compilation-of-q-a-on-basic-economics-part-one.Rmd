@@ -10,6 +10,7 @@ tags: ["Economics", "Introduction", "Questions&Answers", "Exam"]
 
 [Pdf](/pdf/QA-pdfVersion.pdf) version with equations in a correct form
 
+
 ## 2 questions on the "Exercise 2 : Cobb-Douglas Production Function" :
 
 1. i don't get the answer the question 3 in this exercise when the power of $x^{0.5}$ is changed to $x_{0.5}$
