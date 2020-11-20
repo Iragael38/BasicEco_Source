@@ -1,30 +1,35 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Economics on Basic Eco Web site for SIE</title>
-    <link>/tags/economics/</link>
+    <link>https://sie-basic-eco.netlify.app/tags/economics/</link>
     <description>Recent content in Economics on Basic Eco Web site for SIE</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="/tags/economics/index.xml" rel="self" type="application/rss+xml" />
-    
+    <language>en-us</language><atom:link href="https://sie-basic-eco.netlify.app/tags/economics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Compilation of Q&amp;A on Basic Economics part One</title>
+      <link>https://sie-basic-eco.netlify.app/post/2020-11-20-compilation-of-q-a-on-basic-economics-part-one/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sie-basic-eco.netlify.app/post/2020-11-20-compilation-of-q-a-on-basic-economics-part-one/</guid>
+      <description>2 questions on the “Exercise 2 : Cobb-Douglas Production Function” :i don’t get the answer the question 3 in this exercise when the power of \(x^0.5\) is changed to \(x−0.5\)The output elasticity with respect to \(x_2\) is defined as a ratio of marginal product and average product.We can write marg.product as: \[mP_{x_2} = \frac{\bar{x}_1^{0.3}}{2x_2^{0.5}} = \bar{x}_1^{0.3} \times 0.5 \times x_2^{-0.5}\]i don’t get the answer of the question number 1 The \(MPx_2\) and \(ApX_2\) , can you give me the steps on how you get this answer .</description>
+    </item>
     
     <item>
       <title>Consumption Case Study</title>
-      <link>/post/2020_10_15_consumption-case-study/</link>
+      <link>https://sie-basic-eco.netlify.app/post/2020_10_15_consumption-case-study/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/post/2020_10_15_consumption-case-study/</guid>
+      <guid>https://sie-basic-eco.netlify.app/post/2020_10_15_consumption-case-study/</guid>
       <description>Student worksReading the Consumption ChaptersGroup work: Case study presentation on consumption cases - (15/10/2020)Pick a case to study in consumption between 9.2 - 9.13This is a team work: subscribe on Consumption Googlesheet for group describtion and topic choiceStatements: 3 slides presentation1 slide: Introduction of the case1 slide: Defining the economics topics usefull to analyse the case1 slide: Case analysis: either by graph, model, equation, etc.</description>
     </item>
     
     <item>
       <title>Consumption Case Study</title>
-      <link>/post/2020_10_22_consumption_cs/</link>
+      <link>https://sie-basic-eco.netlify.app/post/2020_10_22_consumption_cs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/post/2020_10_22_consumption_cs/</guid>
+      <guid>https://sie-basic-eco.netlify.app/post/2020_10_22_consumption_cs/</guid>
       <description>Cases listCASE 2 Why Don’t Students Study More? Student Presentation
 CASE 3 The New Philanthropy Student Presentation
 Case 5 Do Rats Have Downward-Sloping Demand Curves? Student Presentation
@@ -36,10 +41,10 @@ Case 9 Trash Pricing and Recycling Student Presentation
     
     <item>
       <title>Fifth Lesson</title>
-      <link>/post/2020_10_15_fifth-lesson/</link>
+      <link>https://sie-basic-eco.netlify.app/post/2020_10_15_fifth-lesson/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/post/2020_10_15_fifth-lesson/</guid>
+      <guid>https://sie-basic-eco.netlify.app/post/2020_10_15_fifth-lesson/</guid>
       <description>Welcome !
 This Fifth lesson is the Consumption Case Studies ClassMain topics areConsumptionThe class will present and discuss Case studiesVisio Link to the classMeeting: Basic Economics - 3rd LessonTime: 8 oct. 2020 01:30 PM Paris
 Join the Zoom Meetinghttps://grenoble-inp.zoom.us/j/98288859856?pwd=KzA1a1VKY2owWms2eG5mY1phSXlJUT09
@@ -51,10 +56,10 @@ Caseine
     
     <item>
       <title>First Lesson</title>
-      <link>/post/2020_10_01_first-lesson/</link>
+      <link>https://sie-basic-eco.netlify.app/post/2020_10_01_first-lesson/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/post/2020_10_01_first-lesson/</guid>
+      <guid>https://sie-basic-eco.netlify.app/post/2020_10_01_first-lesson/</guid>
       <description>Welcome !
 This First lesson is the introduction of the Basic Economics ClassMain topics areCourse organisationIntroductory topics in economicsExperimentation / Case Study / ExercisesFirst period of the class will use handoutSecond part will be based on experimentation (see below)After this lesson:
 Student worksReading the Production ChaptersGroup work: Case study presentation on production cases - (08/10/2020)Pick a case to study in production between 8.</description>
@@ -62,10 +67,10 @@ Caseine
     
     <item>
       <title>Fourth Lesson</title>
-      <link>/post/2020_10_12_fourth-lesson/</link>
+      <link>https://sie-basic-eco.netlify.app/post/2020_10_12_fourth-lesson/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/post/2020_10_12_fourth-lesson/</guid>
+      <guid>https://sie-basic-eco.netlify.app/post/2020_10_12_fourth-lesson/</guid>
       <description>Welcome !
 This Fourth lesson is the Debrief of Production ClassMain topics areProductionVisio Link to the classMeeting: Basic Economics - 4th LessonTime: 8 oct. 2020 01:30 PM Paris
 Join the Zoom Meetinghttps://grenoble-inp.zoom.us/j/92779189061?pwd=QkZVZDZnazE3TnBHdThiWjZGTnd3dz09
@@ -76,20 +81,20 @@ ID : 927 7918 9061Password: BEIE-SIE
     
     <item>
       <title>Production Case Study</title>
-      <link>/post/2020_10_02_production-case-study/</link>
+      <link>https://sie-basic-eco.netlify.app/post/2020_10_02_production-case-study/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/post/2020_10_02_production-case-study/</guid>
+      <guid>https://sie-basic-eco.netlify.app/post/2020_10_02_production-case-study/</guid>
       <description>After the 1rst lesson - Before 3rd lesson:
 Student worksReading the Production ChaptersGroup work: Case study presentation on production cases - (08/10/2020)Pick a case to study in production between 8.1 - 8.13This is a team work: subscribe on Production Googlesheet for group describtion and topic choiceStatements: 3 slides presentation1 slide: Introduction of the case1 slide: Defining the economics topics usefull to analyse the case1 slide: Case analysis: either by graph, model, equation, etc.</description>
     </item>
     
     <item>
       <title>Production Case Study</title>
-      <link>/post/2020_10_15_productioncs/</link>
+      <link>https://sie-basic-eco.netlify.app/post/2020_10_15_productioncs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/post/2020_10_15_productioncs/</guid>
+      <guid>https://sie-basic-eco.netlify.app/post/2020_10_15_productioncs/</guid>
       <description>Cases list1.1 Increasing Returns to Scale at Volkswagen Student Presentation
 1.2 Food Intake and Productivity: An Example of Diminishing Returns
 1.3 Economies of scale and hospitals in Scotland Student Presentation
@@ -102,10 +107,10 @@ ID : 927 7918 9061Password: BEIE-SIE
     
     <item>
       <title>Second Lesson</title>
-      <link>/post/2020_10_05_second-lesson/</link>
+      <link>https://sie-basic-eco.netlify.app/post/2020_10_05_second-lesson/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/post/2020_10_05_second-lesson/</guid>
+      <guid>https://sie-basic-eco.netlify.app/post/2020_10_05_second-lesson/</guid>
       <description>Welcome !
 This Second lesson is the introduction of the Basic Economics ClassMain topics areMarketThe class will continue to use handoutVisio Link to the classMeeting: Basic Economics - 2nd LessonTime: 5 oct. 2020 11:00 AM Paris
 Join the Zoom Meetinghttps://grenoble-inp.zoom.us/j/98107129889?pwd=ZWRNazN2czNtbm9rcElTVExkVWxMdz09
@@ -116,10 +121,10 @@ ID : 981 0712 9889Password: BEIE-SIE
     
     <item>
       <title>Sixth Lesson</title>
-      <link>/post/2020_10_22_sixth-lesson/</link>
+      <link>https://sie-basic-eco.netlify.app/post/2020_10_22_sixth-lesson/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/post/2020_10_22_sixth-lesson/</guid>
+      <guid>https://sie-basic-eco.netlify.app/post/2020_10_22_sixth-lesson/</guid>
       <description>Welcome !
 This Sixth lesson is the Debrief of Consumption Case StudiesMain topics areConsumptionVisio Link to the classMeeting: BAsic Economics - 6th LessonTime: 22 oct. 2020 01:30 PM Paris
 Join the Zoom Meetinghttps://grenoble-inp.zoom.us/j/92878536013?pwd=ZVI4UUt1ZGlDMG1sTzJWMURCVzRoQT09
@@ -131,10 +136,10 @@ Consumption Exercise Slides
     
     <item>
       <title>Third Lesson</title>
-      <link>/post/2020_10_08_third-lesson/</link>
+      <link>https://sie-basic-eco.netlify.app/post/2020_10_08_third-lesson/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/post/2020_10_08_third-lesson/</guid>
+      <guid>https://sie-basic-eco.netlify.app/post/2020_10_08_third-lesson/</guid>
       <description>Welcome !
 This Third lesson is the Production Case Studies ClassMain topics areProductionThe class will present and discuss Case studiesVisio Link to the classMeeting: Basic Economics - 3rd LessonTime: 8 oct. 2020 01:30 PM Paris
 Join the Zoom Meetinghttps://grenoble-inp.zoom.us/j/99106787145?pwd=ZkUydlhkWm40ZmMrUjVZbFF2dGlnZz09

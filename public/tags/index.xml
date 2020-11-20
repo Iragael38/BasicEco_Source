@@ -1,57 +1,71 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Basic Eco Web site for SIE</title>
-    <link>/tags/</link>
+    <link>https://sie-basic-eco.netlify.app/tags/</link>
     <description>Recent content in Tags on Basic Eco Web site for SIE</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://sie-basic-eco.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Economics</title>
-      <link>/tags/economics/</link>
+      <link>https://sie-basic-eco.netlify.app/tags/economics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/tags/economics/</guid>
+      <guid>https://sie-basic-eco.netlify.app/tags/economics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exam</title>
+      <link>https://sie-basic-eco.netlify.app/tags/exam/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sie-basic-eco.netlify.app/tags/exam/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Introduction</title>
-      <link>/tags/introduction/</link>
+      <link>https://sie-basic-eco.netlify.app/tags/introduction/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/tags/introduction/</guid>
+      <guid>https://sie-basic-eco.netlify.app/tags/introduction/</guid>
       <description></description>
     </item>
     
     <item>
       <title>lessons list</title>
-      <link>/tags/lessons-list/</link>
+      <link>https://sie-basic-eco.netlify.app/tags/lessons-list/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/tags/lessons-list/</guid>
+      <guid>https://sie-basic-eco.netlify.app/tags/lessons-list/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Market</title>
-      <link>/tags/market/</link>
+      <link>https://sie-basic-eco.netlify.app/tags/market/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/tags/market/</guid>
+      <guid>https://sie-basic-eco.netlify.app/tags/market/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Questions&amp;Answers</title>
+      <link>https://sie-basic-eco.netlify.app/tags/questionsanswers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sie-basic-eco.netlify.app/tags/questionsanswers/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Thinking like Economist</title>
-      <link>/tags/thinking-like-economist/</link>
+      <link>https://sie-basic-eco.netlify.app/tags/thinking-like-economist/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/tags/thinking-like-economist/</guid>
+      <guid>https://sie-basic-eco.netlify.app/tags/thinking-like-economist/</guid>
       <description></description>
     </item>
     

@@ -2,7 +2,7 @@
 title: "Second Lesson"
 subtitle: "5th October - Market"
 author: "Iragaël Joly"
-date: "Automn 2020"
+date: '2020-10-05'
 categories: ["Basic Eco"]
 tags: ["Economics", "Introduction", "Market", "Thinking like Economist"]
 ---

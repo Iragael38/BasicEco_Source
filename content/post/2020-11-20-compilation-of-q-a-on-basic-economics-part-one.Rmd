@@ -1,0 +1,57 @@
+---
+title: "Compilation of Q&A on Basic Economics part One"
+author: ''
+slug: []
+date: '2020-11-20'
+categories: ["Basic Eco"]
+tags: ["Economics", "Introduction", "Questions&Answers", "Exam"]
+---
+
+## 2 questions on the "Exercise 2 : Cobb-Douglas Production Function" :
+
+1. i don't get the answer the question 3 in this exercise when the power of $x^0.5$ is changed to $x−0.5$
+
++ The output elasticity with respect to $x_2$ is defined as a ratio of marginal product and average product.
+We can write marg.product as: $$mP_{x_2} = \frac{\bar{x}_1^{0.3}}{2x_2^{0.5}}  = \bar{x}_1^{0.3} \times 0.5 \times x_2^{-0.5}$$
+
+2) i don't get the answer of the question number 1 The $MPx_2$ and $ApX_2$ , can you give me the steps on how you get this answer .
+
++ Answer
+
+### Question
+
+Assuming input $x_1$ is fixed ($x_1=10$), how will vary *Total Productivity*, *Average* and *Marginal Productivity* of input $x_2$?
+
+### Answer
+
+Keeping constant the first input $x_1$ to  a level of 10 (that we can note $x_1 = \bar{x}_1=10$.), we study the productivity of the second input $x_2$.
+
+
++ Total Product when $x_1$ is fixed is obtained substituting $\bar{x}_1$ in the production function.
+
+$$Q(\bar{x}_1, x_2)= \bar{x}_1^{0.3} x_2^{0.5}$$
+    - Wich is a function of $x_2$. It gives the output quantities the firm can achieve with $\bar{x}_1$ for varying $x_2$.
+    - Total product is increasing and concave with $x_2$.
+
++ Marginal product of input $x_2$ is the supplementary output associated to a supplementary unit of input. It is measured by the ffirst derivative of the TP with respect to $x_2$:
+
+$$mP_{x_2} = \frac{\partial Q(\bar{x}_1, x_2)}{\partial x_2}=\frac{\partial\bar{x}_1^{0.3} x_2^{0.5}}{\partial x_2} = \frac{\bar{x}_1^{0.3}}{2x_2^{0.5}}$$
+
+   - $mP_{x_2}$ is decreasing and convex with $x_2$: productivity of $x_2$ is non negative, increasing at a decreasing rate: diminishing returns of the input.
+
++ Average product of $x_2$ is the average number of output per unit of input:
+
+$$AP{x_2} = \frac{Q(\bar{x}_1, x_2)}{x_2}=\frac{\bar{x}_1^{0.3}}{x_2^{0.5}}$$
+  - $AP_{x_2}$ is decreasing and convex with $x_2$
+
+
+
+
+## Question about the way to study the final exam for this class for a student who is studying economics for the first time. 
+
++ Is studying the lecture is enough with the exercices or should i make something extra?   
+   - *For the Part One of Basic Economics*: Yes, study textbook chapters and case studies notion and discussion.
+   - You can also take a look at the past exams on [Caseine](https://moodle.caseine.org/mod/folder/view.php?id=18140) where some solutions or partial corrections are available.
+      + you will find the type of questions that will fall. 
+      + In the 2020 version of the exam definition questions, short answers questions will be tranformed in a MCQ type.
+   

@@ -4,6 +4,7 @@ title: "Basic Economics for SIE"
 
 # What's new?
 
+- `20/11/2020`: Some questions&answers are collected [here](/post/2020_11_20_compilation-of-q-a-on-basic-economics-part-one)
 - `23/10/2020`: Grades of the CS presentations are available on [Caseine](https://moodle.caseine.org/mod/resource/view.php?id=32068)
 - `22/10/2020`: the revised student slides on *Consumption* case study are available [here](/post/2020_10_22_Consumption_CS)
 - `15/10/2020`: the revised student slides on *production* case study are available [here](/post/2020_10_15_ProductionCS)

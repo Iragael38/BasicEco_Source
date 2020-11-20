@@ -1,105 +1,117 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/about/</loc>
+    <loc>https://sie-basic-eco.netlify.app/about/</loc>
   </url>
   
   <url>
-    <loc>/categories/basic-eco/</loc>
+    <loc>https://sie-basic-eco.netlify.app/categories/basic-eco/</loc>
   </url>
   
   <url>
-    <loc>/lessons_list/</loc>
+    <loc>https://sie-basic-eco.netlify.app/lessons_list/</loc>
   </url>
   
   <url>
-    <loc>/recordings/</loc>
+    <loc>https://sie-basic-eco.netlify.app/recordings/</loc>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>https://sie-basic-eco.netlify.app/</loc>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>https://sie-basic-eco.netlify.app/categories/</loc>
   </url>
   
   <url>
-    <loc>/post/2020_10_15_consumption-case-study/</loc>
+    <loc>https://sie-basic-eco.netlify.app/post/2020-11-20-compilation-of-q-a-on-basic-economics-part-one/</loc>
   </url>
   
   <url>
-    <loc>/post/2020_10_22_consumption_cs/</loc>
+    <loc>https://sie-basic-eco.netlify.app/post/2020_10_15_consumption-case-study/</loc>
   </url>
   
   <url>
-    <loc>/tags/economics/</loc>
+    <loc>https://sie-basic-eco.netlify.app/post/2020_10_22_consumption_cs/</loc>
   </url>
   
   <url>
-    <loc>/post/2020_10_15_fifth-lesson/</loc>
+    <loc>https://sie-basic-eco.netlify.app/tags/economics/</loc>
   </url>
   
   <url>
-    <loc>/post/2020_10_01_first-lesson/</loc>
+    <loc>https://sie-basic-eco.netlify.app/tags/exam/</loc>
   </url>
   
   <url>
-    <loc>/post/2020_10_12_fourth-lesson/</loc>
+    <loc>https://sie-basic-eco.netlify.app/post/2020_10_15_fifth-lesson/</loc>
   </url>
   
   <url>
-    <loc>/tags/introduction/</loc>
+    <loc>https://sie-basic-eco.netlify.app/post/2020_10_01_first-lesson/</loc>
   </url>
   
   <url>
-    <loc>/tags/lessons-list/</loc>
+    <loc>https://sie-basic-eco.netlify.app/post/2020_10_12_fourth-lesson/</loc>
   </url>
   
   <url>
-    <loc>/tags/market/</loc>
+    <loc>https://sie-basic-eco.netlify.app/tags/introduction/</loc>
   </url>
   
   <url>
-    <loc>/otherclass/</loc>
+    <loc>https://sie-basic-eco.netlify.app/tags/lessons-list/</loc>
   </url>
   
   <url>
-    <loc>/post/</loc>
+    <loc>https://sie-basic-eco.netlify.app/tags/market/</loc>
   </url>
   
   <url>
-    <loc>/post/2020_10_02_production-case-study/</loc>
+    <loc>https://sie-basic-eco.netlify.app/otherclass/</loc>
   </url>
   
   <url>
-    <loc>/post/2020_10_15_productioncs/</loc>
+    <loc>https://sie-basic-eco.netlify.app/post/</loc>
   </url>
   
   <url>
-    <loc>/categories/r/</loc>
+    <loc>https://sie-basic-eco.netlify.app/post/2020_10_02_production-case-study/</loc>
   </url>
   
   <url>
-    <loc>/post/2020_10_05_second-lesson/</loc>
+    <loc>https://sie-basic-eco.netlify.app/post/2020_10_15_productioncs/</loc>
   </url>
   
   <url>
-    <loc>/post/2020_10_22_sixth-lesson/</loc>
+    <loc>https://sie-basic-eco.netlify.app/tags/questionsanswers/</loc>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>https://sie-basic-eco.netlify.app/categories/r/</loc>
   </url>
   
   <url>
-    <loc>/tags/thinking-like-economist/</loc>
+    <loc>https://sie-basic-eco.netlify.app/post/2020_10_05_second-lesson/</loc>
   </url>
   
   <url>
-    <loc>/post/2020_10_08_third-lesson/</loc>
+    <loc>https://sie-basic-eco.netlify.app/post/2020_10_22_sixth-lesson/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sie-basic-eco.netlify.app/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sie-basic-eco.netlify.app/tags/thinking-like-economist/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sie-basic-eco.netlify.app/post/2020_10_08_third-lesson/</loc>
   </url>
   
 </urlset>
