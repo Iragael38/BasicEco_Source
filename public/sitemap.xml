@@ -3,11 +3,72 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://sie-basic-eco.netlify.app/about/</loc>
+    <loc>https://sie-basic-eco.netlify.app/categories/basic-eco/</loc>
+    <lastmod>2020-11-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sie-basic-eco.netlify.app/categories/basic-eco/</loc>
+    <loc>https://sie-basic-eco.netlify.app/</loc>
+    <lastmod>2020-11-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sie-basic-eco.netlify.app/categories/</loc>
+    <lastmod>2020-11-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sie-basic-eco.netlify.app/post/2020-11-20-compilation-of-q-a-on-basic-economics-part-one/</loc>
+    <lastmod>2020-11-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sie-basic-eco.netlify.app/tags/economics/</loc>
+    <lastmod>2020-11-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sie-basic-eco.netlify.app/tags/exam/</loc>
+    <lastmod>2020-11-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sie-basic-eco.netlify.app/tags/introduction/</loc>
+    <lastmod>2020-11-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sie-basic-eco.netlify.app/post/</loc>
+    <lastmod>2020-11-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sie-basic-eco.netlify.app/tags/questionsanswers/</loc>
+    <lastmod>2020-11-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sie-basic-eco.netlify.app/tags/</loc>
+    <lastmod>2020-11-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sie-basic-eco.netlify.app/tags/market/</loc>
+    <lastmod>2020-10-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sie-basic-eco.netlify.app/post/2020_10_05_second-lesson/</loc>
+    <lastmod>2020-10-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sie-basic-eco.netlify.app/tags/thinking-like-economist/</loc>
+    <lastmod>2020-10-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sie-basic-eco.netlify.app/about/</loc>
   </url>
   
   <url>
@@ -19,31 +80,11 @@
   </url>
   
   <url>
-    <loc>https://sie-basic-eco.netlify.app/</loc>
-  </url>
-  
-  <url>
-    <loc>https://sie-basic-eco.netlify.app/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://sie-basic-eco.netlify.app/post/2020-11-20-compilation-of-q-a-on-basic-economics-part-one/</loc>
-  </url>
-  
-  <url>
     <loc>https://sie-basic-eco.netlify.app/post/2020_10_15_consumption-case-study/</loc>
   </url>
   
   <url>
     <loc>https://sie-basic-eco.netlify.app/post/2020_10_22_consumption_cs/</loc>
-  </url>
-  
-  <url>
-    <loc>https://sie-basic-eco.netlify.app/tags/economics/</loc>
-  </url>
-  
-  <url>
-    <loc>https://sie-basic-eco.netlify.app/tags/exam/</loc>
   </url>
   
   <url>
@@ -59,23 +100,11 @@
   </url>
   
   <url>
-    <loc>https://sie-basic-eco.netlify.app/tags/introduction/</loc>
-  </url>
-  
-  <url>
     <loc>https://sie-basic-eco.netlify.app/tags/lessons-list/</loc>
   </url>
   
   <url>
-    <loc>https://sie-basic-eco.netlify.app/tags/market/</loc>
-  </url>
-  
-  <url>
     <loc>https://sie-basic-eco.netlify.app/otherclass/</loc>
-  </url>
-  
-  <url>
-    <loc>https://sie-basic-eco.netlify.app/post/</loc>
   </url>
   
   <url>
@@ -87,27 +116,11 @@
   </url>
   
   <url>
-    <loc>https://sie-basic-eco.netlify.app/tags/questionsanswers/</loc>
-  </url>
-  
-  <url>
     <loc>https://sie-basic-eco.netlify.app/categories/r/</loc>
   </url>
   
   <url>
-    <loc>https://sie-basic-eco.netlify.app/post/2020_10_05_second-lesson/</loc>
-  </url>
-  
-  <url>
     <loc>https://sie-basic-eco.netlify.app/post/2020_10_22_sixth-lesson/</loc>
-  </url>
-  
-  <url>
-    <loc>https://sie-basic-eco.netlify.app/tags/</loc>
-  </url>
-  
-  <url>
-    <loc>https://sie-basic-eco.netlify.app/tags/thinking-like-economist/</loc>
   </url>
   
   <url>
