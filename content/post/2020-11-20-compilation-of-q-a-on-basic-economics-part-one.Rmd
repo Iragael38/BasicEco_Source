@@ -6,11 +6,13 @@ date: '2020-11-20'
 categories: []
 tags: ["Economics", "Introduction", "Questions&Answers", "Exam"]
 header-includes:
+
     <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
     <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 
 ---
 
+**20/11/2020**
 
 [Pdf](/pdf/QA-pdfVersion.pdf) version with equations in a correct form
 
