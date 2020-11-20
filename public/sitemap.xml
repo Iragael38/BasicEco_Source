@@ -3,17 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://sie-basic-eco.netlify.app/categories/basic-eco/</loc>
-    <lastmod>2020-11-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://sie-basic-eco.netlify.app/</loc>
-    <lastmod>2020-11-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sie-basic-eco.netlify.app/categories/</loc>
     <lastmod>2020-11-20T00:00:00+00:00</lastmod>
   </url>
   
@@ -50,6 +40,16 @@
   <url>
     <loc>https://sie-basic-eco.netlify.app/tags/</loc>
     <lastmod>2020-11-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sie-basic-eco.netlify.app/categories/basic-eco/</loc>
+    <lastmod>2020-10-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sie-basic-eco.netlify.app/categories/</loc>
+    <lastmod>2020-10-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
